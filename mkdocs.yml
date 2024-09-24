@@ -1,0 +1,65 @@
+site_name: "Aplicacions Ofimàtiques - 1SMX"
+nav: 
+      - Inici: index.md
+      - Unitat Didàctica 2:
+        - "1. Introducció": "UD2 - Writter/0_Introduccio.md"
+        - "2. Primera part": 
+          - "2.0. Introducció": "UD2 - Writter/Part 1/1_0_Part1.md"
+          - "2.1. L'entorn de Treball": "UD2 - Writter/Part 1/1_1_EntornDeTreball.md"
+        - "3. Segona part": 
+          - "3.0. Introducció": "UD2 - Writter/Part 2/2_0_Part2.md"
+          - "3.1. Tabuladors": "UD2 - Writter/Part 2/2_1_Tabuladors.md"
+          - "3.2. Marcs": "UD2 - Writter/Part 2/2_2_Marcs.md"
+          - "3.3. Estils": "UD2 - Writter/Part 2/2_3_Estils.md"
+          - "3.4. Generació d'Index": "UD2 - Writter/Part 2/2_4_Generacio_Index.md"
+          - "3.5. Plantilles": "UD2 - Writter/Part 2/2_5_Plantilles.md"
+          - "3.6. Llistes": "UD2 - Writter/Part 2/2_6_Llistes.md"
+          - "3.7. Espaiat entre paràgrafs": "UD2 - Writter/Part 2/2_7_Espai_Paragrafs.md"
+      - Sobre...: about.md
+# Carpeta amb el documents fot
+docs_dir: 'md'
+
+# Carpeta on es generarà el lloc web (mkdocs build)
+site_dir: 'docs'
+
+# Adreça on s'executa el server local (mkdocs serve)
+dev_addr: localhost:4000
+
+# Extenions
+markdown_extensions:
+  - admonition
+  - attr_list         # permet afegir atributs a les etiquetes html 
+  # pymdownx és una col·leccio per escritura tècnica. S'instal·la per defecte
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      linenums: true
+      anchor_linenums: true
+      auto_title: true
+
+# Tema a triar
+theme: 
+  name: material  # selecció del tema
+  palette:
+   # Boto que canvia a mode oscur
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+    # Botó que canvia a mode clar
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    # utilitats de copia de codi
+    - content.code.copy 
+    - content.code.select
+    - content.code.annotate
+    - navigation.footer       # footer de la pagina, amb navegació
+    - navigation.top    # boto flotant de tornar a dalt 
+
+# Altres afegits
+plugins:
+  - search      # plugin del quadre cerca
+  #- pdf-export  # plugin per exportar a pdf

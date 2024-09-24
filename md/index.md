@@ -1,0 +1,1 @@
+# Benvinguts al curs d'Aplicacions Ofimàtiques
