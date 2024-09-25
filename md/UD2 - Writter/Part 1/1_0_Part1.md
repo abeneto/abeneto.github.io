@@ -9,3 +9,4 @@ A més, revisarem els **procediments bàsics d'edició** de documents, com la **
 Per completar aquesta secció, explorarem la **inserció d'objectes i imatges** dins dels textos, així com la configuració d'elements com les **capçaleres i peus de pàgina**. També treballarem amb **seccions** i **salts** per controlar l'estructura del document de manera professional i clara.
 
 Amb aquest conjunt de competències, estareu preparats per gestionar i donar forma a documents de manera eficaç, aplicant procediments senzills però essencials per a qualsevol tipus de projecte escrit.
+
