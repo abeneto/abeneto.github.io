@@ -1,4 +1,3 @@
-## Introducció a la segona part del tema: Funcions avançades de Writer de LibreOffice
 
 En aquesta segona part del tema, aprofundirem en les funcions més avançades de **Writer de LibreOffice** que ens permeten millorar la presentació i l'estructura dels documents. Començarem explorant els **tabuladors**, una eina fonamental que facilita l'organització del text en columnes i la creació de formats consistents en documents més complexos.
 

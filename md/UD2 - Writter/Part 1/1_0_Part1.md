@@ -1,4 +1,3 @@
-# Introducció a la primera part del tema: Processadors de textos i operacions bàsiques amb Writer de LibreOffice
 
 En aquesta primera part del tema, ens familiaritzarem amb l'entorn de treball de **Writer de LibreOffice** i començarem a explorar les funcions essencials per crear, gestionar i editar documents de manera eficaç. Primerament, aprendrem a **crear, guardar i recuperar documents**, així com a exportar-los en diversos formats, com PDF, per compartir-los o imprimir-los amb facilitat.
 

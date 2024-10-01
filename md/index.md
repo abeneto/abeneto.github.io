@@ -1,3 +1,5 @@
+<h1 style="display:none;"># Inici</h1>
+
 # Benvinguts al curs d'Aplicacions Ofimàtiques
 
 ![](assets/intro_image.jpg){: style="display: block; margin-left: auto; margin-right: auto; width: 400px;" }
