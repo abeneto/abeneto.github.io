@@ -25,7 +25,7 @@ nav:
           - "2.5. Plantilles": "UD2 - Writter/Part 2/2_5_Plantilles.md"
           - "2.6. Llistes": "UD2 - Writter/Part 2/2_6_Llistes.md"
           - "2.7. Espaiat entre paràgrafs": "UD2 - Writter/Part 2/2_7_Espai_Paragrafs.md"
-        - "Part 3 - Assistents, gràfics estadístics i taules en Writer de LibreOffice":
+        - "Part 3 - Assistents, gràfics estadístics i taules":
           - "3.0. Introducció": "UD2 - Writter/Part 3/3_0_Part3.md"
           - "3.1. Assistents": "UD2 - Writter/Part 3/3_1_Assistents.md"
           - "3.2. Gràfics": "UD2 - Writter/Part 3/3_2_Grafics.md"
@@ -33,6 +33,13 @@ nav:
           - "3.4. Formatar taules": "UD2 - Writter/Part 3/3_4_Formatar_Taules.md"
           - "3.5. Text a taula": "UD2 - Writter/Part 3/3_5_Text_a_Taula.md"
           - "3.6. Combinar Cel·les": "UD2 - Writter/Part 3/3_6_Combinar_Celes.md"
+        - "Part 4 - Sangries, taules de càlcul, documents mestres i de gran volum i control de canvis":
+          - "4.0. Introducció": "UD2 - Writter/Part 4/4_0_Part4.md"
+          - "4.1. Assistents": "UD2 - Writter/Part 4/4_1_Sangries.md"
+          - "4.2. Gràfics": "UD2 - Writter/Part 4/4_2_TaulesCalcul.md"
+          - "4.3. Taules": "UD2 - Writter/Part 4/4_3_DocumentsGranVolum.md"
+          - "4.4. Formatar taules": "UD2 - Writter/Part 4/4_4_DocumentsMestres.md"
+          - "4.5. Text a taula": "UD2 - Writter/Part 4/4_5_ControlCanvis.md"
       - Sobre...: about.md
 # Carpeta amb el documents fot
 docs_dir: 'md'
