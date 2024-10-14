@@ -35,11 +35,11 @@ nav:
           - "3.6. Combinar Cel·les": "UD2 - Writter/Part 3/3_6_Combinar_Celes.md"
         - "Part 4 - Sangries, taules de càlcul, documents mestres i de gran volum i control de canvis":
           - "4.0. Introducció": "UD2 - Writter/Part 4/4_0_Part4.md"
-          - "4.1. Assistents": "UD2 - Writter/Part 4/4_1_Sangries.md"
-          - "4.2. Gràfics": "UD2 - Writter/Part 4/4_2_TaulesCalcul.md"
-          - "4.3. Taules": "UD2 - Writter/Part 4/4_3_DocumentsGranVolum.md"
-          - "4.4. Formatar taules": "UD2 - Writter/Part 4/4_4_DocumentsMestres.md"
-          - "4.5. Text a taula": "UD2 - Writter/Part 4/4_5_ControlCanvis.md"
+          - "4.1. Sangries": "UD2 - Writter/Part 4/4_1_Sangries.md"
+          - "4.2. Taules de càlcul": "UD2 - Writter/Part 4/4_2_TaulesCalcul.md"
+          - "4.3. Documents de gran volum": "UD2 - Writter/Part 4/4_3_DocumentsGranVolum.md"
+          - "4.4. Documents mestres": "UD2 - Writter/Part 4/4_4_DocumentsMestres.md"
+          - "4.5. Control de canvis": "UD2 - Writter/Part 4/4_5_ControlCanvis.md"
       - Sobre...: about.md
 # Carpeta amb el documents fot
 docs_dir: 'md'
