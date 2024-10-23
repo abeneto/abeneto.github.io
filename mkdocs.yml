@@ -1,45 +1,59 @@
-site_name: "Aplicacions Ofimàtiques - 1SMX"
+site_name: "Cursos d'Informàtica"
 nav: 
       - Inici: index.md
-      - Unitat Didàctica 2:
-        - "Introducció": "UD2 - Writter/0_Introduccio.md"
-        - "Part 1 - Entorn de treball, creació i recuperació de documents i format bàsic: estils, capçalera i peu, salts, seccions, paràgrafs i exportació": 
-          - "1.0. Introducció": "UD2 - Writter/Part 1/1_0_Part1.md"
-          - "1.1. L'entorn de Treball": "UD2 - Writter/Part 1/1_1_EntornDeTreball.md"
-          - "1.2. Idioma": "UD2 - Writter/Part 1/1_2_Idioma.md"
-          - "1.3. Crear, Guardar, Recuperar": "UD2 - Writter/Part 1/1_3_Crear_Guardar_Recuperar.md"
-          - "1.4. Exportar": "UD2 - Writter/Part 1/1_4_Exportar.md"
-          - "1.5. Paràgraf": "UD2 - Writter/Part 1/1_5_Paragraf.md"
-          - "1.6. Estils": "UD2 - Writter/Part 1/1_6_Estils.md"
-          - "1.7. Edició bàsica": "UD2 - Writter/Part 1/1_7_Edicio_basica.md"
-          - "1.8. Inserció": "UD2 - Writter/Part 1/1_8_Insercio.md"
-          - "1.9. Capçalera": "UD2 - Writter/Part 1/1_9_Capcalera.md"
-          - "1.10. Seccions": "UD2 - Writter/Part 1/1_10_Seccions.md"
-          - "1.11. Salts": "UD2 - Writter/Part 1/1_11_Salts.md"
-        - "Part 2 - Tabuladors, marcs, plantilles, llistes i espaiat de paràgrafs": 
-          - "2.0. Introducció": "UD2 - Writter/Part 2/2_0_Part2.md"
-          - "2.1. Tabuladors": "UD2 - Writter/Part 2/2_1_Tabuladors.md"
-          - "2.2. Marcs": "UD2 - Writter/Part 2/2_2_Marcs.md"
-          - "2.3. Estils": "UD2 - Writter/Part 2/2_3_Estils.md"
-          - "2.4. Generació d'Index": "UD2 - Writter/Part 2/2_4_Generacio_Index.md"
-          - "2.5. Plantilles": "UD2 - Writter/Part 2/2_5_Plantilles.md"
-          - "2.6. Llistes": "UD2 - Writter/Part 2/2_6_Llistes.md"
-          - "2.7. Espaiat entre paràgrafs": "UD2 - Writter/Part 2/2_7_Espai_Paragrafs.md"
-        - "Part 3 - Assistents, gràfics estadístics i taules":
-          - "3.0. Introducció": "UD2 - Writter/Part 3/3_0_Part3.md"
-          - "3.1. Assistents": "UD2 - Writter/Part 3/3_1_Assistents.md"
-          - "3.2. Gràfics": "UD2 - Writter/Part 3/3_2_Grafics.md"
-          - "3.3. Taules": "UD2 - Writter/Part 3/3_3_Taules.md"
-          - "3.4. Formatar taules": "UD2 - Writter/Part 3/3_4_Formatar_Taules.md"
-          - "3.5. Text a taula": "UD2 - Writter/Part 3/3_5_Text_a_Taula.md"
-          - "3.6. Combinar Cel·les": "UD2 - Writter/Part 3/3_6_Combinar_Celes.md"
-        - "Part 4 - Sangries, taules de càlcul, documents mestres i de gran volum i control de canvis":
-          - "4.0. Introducció": "UD2 - Writter/Part 4/4_0_Part4.md"
-          - "4.1. Sangries": "UD2 - Writter/Part 4/4_1_Sangries.md"
-          - "4.2. Taules de càlcul": "UD2 - Writter/Part 4/4_2_TaulesCalcul.md"
-          - "4.3. Documents de gran volum": "UD2 - Writter/Part 4/4_3_DocumentsGranVolum.md"
-          - "4.4. Documents mestres": "UD2 - Writter/Part 4/4_4_DocumentsMestres.md"
-          - "4.5. Control de canvis": "UD2 - Writter/Part 4/4_5_ControlCanvis.md"
+      - Aplicacions Ofimàtiques (1SMX):
+        - Inici: AOF/index.md
+        - Unitat Didàctica 2. Processadors de textos:
+          - "Introducció": "AOF/UD2 - Writter/0_Introduccio.md"
+          - "Part 1 - Entorn de treball, creació i recuperació de documents i format bàsic: estils, capçalera i peu, salts, seccions, paràgrafs i exportació": 
+            - "1.0. Introducció": "AOF/UD2 - Writter/Part 1/1_0_Part1.md"
+            - "1.1. L'entorn de Treball": "AOF/UD2 - Writter/Part 1/1_1_EntornDeTreball.md"
+            - "1.2. Idioma": "AOF/UD2 - Writter/Part 1/1_2_Idioma.md"
+            - "1.3. Crear, Guardar, Recuperar": "AOF/UD2 - Writter/Part 1/1_3_Crear_Guardar_Recuperar.md"
+            - "1.4. Exportar": "AOF/UD2 - Writter/Part 1/1_4_Exportar.md"
+            - "1.5. Paràgraf": "AOF/UD2 - Writter/Part 1/1_5_Paragraf.md"
+            - "1.6. Estils": "AOF/UD2 - Writter/Part 1/1_6_Estils.md"
+            - "1.7. Edició bàsica": "AOF/UD2 - Writter/Part 1/1_7_Edicio_basica.md"
+            - "1.8. Inserció": "AOF/UD2 - Writter/Part 1/1_8_Insercio.md"
+            - "1.9. Capçalera": "AOF/UD2 - Writter/Part 1/1_9_Capcalera.md"
+            - "1.10. Seccions": "AOF/UD2 - Writter/Part 1/1_10_Seccions.md"
+            - "1.11. Salts": "AOF/UD2 - Writter/Part 1/1_11_Salts.md"
+          - "Part 2 - Tabuladors, marcs, plantilles, llistes i espaiat de paràgrafs": 
+            - "2.0. Introducció": "AOF/UD2 - Writter/Part 2/2_0_Part2.md"
+            - "2.1. Tabuladors": "AOF/UD2 - Writter/Part 2/2_1_Tabuladors.md"
+            - "2.2. Marcs": "AOF/UD2 - Writter/Part 2/2_2_Marcs.md"
+            - "2.3. Estils": "AOF/UD2 - Writter/Part 2/2_3_Estils.md"
+            - "2.4. Generació d'Index": "AOF/UD2 - Writter/Part 2/2_4_Generacio_Index.md"
+            - "2.5. Plantilles": "AOF/UD2 - Writter/Part 2/2_5_Plantilles.md"
+            - "2.6. Llistes": "AOF/UD2 - Writter/Part 2/2_6_Llistes.md"
+            - "2.7. Espaiat entre paràgrafs": "AOF/UD2 - Writter/Part 2/2_7_Espai_Paragrafs.md"
+          - "Part 3 - Assistents, gràfics estadístics i taules":
+            - "3.0. Introducció": "AOF/UD2 - Writter/Part 3/3_0_Part3.md"
+            - "3.1. Assistents": "AOF/UD2 - Writter/Part 3/3_1_Assistents.md"
+            - "3.2. Gràfics": "AOF/UD2 - Writter/Part 3/3_2_Grafics.md"
+            - "3.3. Taules": "AOF/UD2 - Writter/Part 3/3_3_Taules.md"
+            - "3.4. Formatar taules": "AOF/UD2 - Writter/Part 3/3_4_Formatar_Taules.md"
+            - "3.5. Text a taula": "AOF/UD2 - Writter/Part 3/3_5_Text_a_Taula.md"
+            - "3.6. Combinar Cel·les": "AOF/UD2 - Writter/Part 3/3_6_Combinar_Celes.md"
+          - "Part 4 - Sangries, taules de càlcul, documents mestres i de gran volum i control de canvis":
+            - "4.0. Introducció": "AOF/UD2 - Writter/Part 4/4_0_Part4.md"
+            - "4.1. Sangries": "AOF/UD2 - Writter/Part 4/4_1_Sangries.md"
+            - "4.2. Taules de càlcul": "AOF/UD2 - Writter/Part 4/4_2_TaulesCalcul.md"
+            - "4.3. Documents de gran volum": "AOF/UD2 - Writter/Part 4/4_3_DocumentsGranVolum.md"
+            - "4.4. Documents mestres": "AOF/UD2 - Writter/Part 4/4_4_DocumentsMestres.md"
+            - "4.5. Control de canvis": "AOF/UD2 - Writter/Part 4/4_5_ControlCanvis.md"
+          - "Part 5 - Notes i referències, camps, index de continguts i macros":
+            - "5.0. Introducció": "AOF/UD2 - Writter/Part 5/5_0_Part5.md"
+            - "5.1. Notes a peu de pàgina": "AOF/UD2 - Writter/Part 5/5_1_Notes_Peu_Pagina.md"
+            - "5.2. Referències creuades": "AOF/UD2 - Writter/Part 5/5_2_Referencies_Creuades.md"
+            - "5.3. Camps": "AOF/UD2 - Writter/Part 5/5_3_Camps.md"
+            - "5.4. Índex de continguts": "AOF/UD2 - Writter/Part 5/5_4_Index_Continguts.md"
+            - "5.5. Macros": "AOF/UD2 - Writter/Part 5/5_5_Macros.md"
+        - Unitat Didàctica 3. Presentacions:
+          - "Introducció": "AOF/UD3 - Presentacions/0_Introduccio.md"
+          - "Part 1. LibreOffice Impress": 
+            - "1.1. L'entorn de Treball": "AOF/UD3 - Presentacions/Part 1 - Impress/1_1_Entorn.md" 
+            - "1.2. Disseny i creació de diapositives": "AOF/UD3 - Presentacions/Part 1 - Impress/1_2_Disseny_Creacio_Diapositives.md"
       - Sobre...: about.md
 # Carpeta amb el documents fot
 docs_dir: 'md'
