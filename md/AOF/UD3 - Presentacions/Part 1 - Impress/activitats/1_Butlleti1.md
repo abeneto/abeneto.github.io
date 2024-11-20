@@ -1,6 +1,6 @@
 ---
 title: "Aplicacions Ofimàtiques"
-subtitle: "Activitats 1 - 2"
+subtitle: "Activitats 1 - 3"
 author: "Alberto Benetó"
 geometry: "left=2cm, right=2cm, top=1.5cm, bottom=3cm"
 header-includes:
@@ -14,93 +14,75 @@ header-includes:
   - \pagestyle{fancy}
   - \fancyhf{}
   - \fancyhead[L]{\vspace{15pt} 1r CFGM SMX}
-  - \fancyhead[R]{\includegraphics[width=170pt,height=50pt]{../../../assets/fse.png}}  # Inserta el logo a la part esquerra
-  - \fancyfoot[C]{\thepage}  # Numeració de pàgines al centre del peu
-  - \renewcommand{\headrulewidth}{0pt}  # Elimina la línia sota la capçalera
-  - \renewcommand{\footrulewidth}{0pt}  # Elimina la línia sobre el peu
+  - \fancyhead[R]{\includegraphics[width=170pt,height=50pt]{../../../assets/fse.png}}
+  - \fancyfoot[C]{\thepage}
+  - \renewcommand{\headrulewidth}{0pt}
+  - \renewcommand{\footrulewidth}{0pt}
   - \setlength{\headsep}{60pt}
   - \setlength{\footskip}{60pt}
-  - |
-    \fancypagestyle{plain}{
-      \fancyhf{}
-      \fancyhead[L]{\vspace{15pt} 1r CFGM SMX}
-      \fancyhead[R]{\includegraphics[width=170pt,height=50pt]{../../../assets/fse.png}}
-      \fancyfoot[C]{\thepage}
-    }
-  - |
-    \titleformat{\section}{\normalfont\Large\bfseries\color{black}}{}{0em}{}
-  - |
-    \titleformat{\subsection}{\normalfont\large\bfseries\color{black}}{}{0em}{}
 mainfont: "Arial"
 output: 
   pdf_document:
     latex_engine: xelatex
 ---
 
-## Índex
+# Índex
+
 1. [Introducció](#introduccio)
 2. [Objectius](#objectius)
 3. [Activitat 1](#activitat-1)
 4. [Activitat 2](#activitat-2)
+5. [Activitat 3](#activitat-3)
+
+---
 
 ## Introducció<a id="introduccio"></a>
 
-La pràctica ens introdueix a l'ús de **presentacions multimèdia** mitjançant **LibreOffice Impress**, així com en l'aplicació de normes bàsiques de composició i disseny.
+Aquest document recull les primeres activitats necessàries per a dominar la creació de presentacions multimèdia bàsiques amb **LibreOffice Impress**.
+
+---
 
 ## Objectius<a id="objectius"></a>
 
-- Creació de diapositives
-- Disseny i edició de diapositives
-- Inserir imatges i vídeos
-- Aplicar efectes d'animació i transicions
-- Utilitzar plantilles
-
-\vfill
-
-\begin{center}
-\includegraphics[height=32pt]{../../../assets/llicencia.png}
-\end{center}
-
-\begin{center}
-\footnotesize{
-\textit{Apunts Aplicacions Ofimàtiques - 1SMX} by \href{https://github.com/abeneto}{Alberto Benetó} is licensed under \href{https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1}{Creative Commons Attribution-NonCommercial-ShareAlike 4.0}
-}
-\end{center}
-
-\newpage
-
-## Activitat 1<a id="activitat-1"></a>
-
-### Objectiu:
-Crear diapositives i aplicar normes de disseny.
-
-### Desenvolupament de l’activitat:
-
-#### Creació de diapositives
-
-1. Obre **LibreOffice Impress** i crea una nova presentació.
-2. Dissenya almenys 3 diapositives que segueixin les normes de composició (títol, contingut, imatges).
-
-\begin{tcolorbox}[colback=customblue!5!white, colframe=customblue!80!black, title=Nota]
-Guarda el document generat com `Presentacio_1.odp`.
-\end{tcolorbox}
+- Crear diapositives amb dissenys bàsics.
+- Aprendre a utilitzar patrons de diapositives.
+- Inserir imatges, text i ajustos visuals.
 
 ---
 
-## Activitat 2<a id="activitat-2"></a>
+## Activitat 1: Creació d’una presentació bàsica<a id="activitat-1"></a>
 
-### Objectiu:
-Inserir imatges i aplicar animacions.
+### **Objectiu:** Practicar la creació i el disseny bàsic de diapositives.
 
-### Desenvolupament de l’activitat:
-
-1. Obre la presentació `Presentacio_1.odp`.
-2. Afegeix una imatge a una de les diapositives.
-3. Aplica una animació a la imatge inserida.
-4. Afegeix efectes d'animació als diferents elements d'aquesta diapositiva.
-
-\begin{tcolorbox}[colback=customblue!5!white, colframe=customblue!80!black, title=Nota]
-Guarda els canvis en `Presentacio_1.odp`.
-\end{tcolorbox}
+1. Obre **LibreOffice Impress** i crea una nova presentació en blanc.
+2. Crea **3 diapositives** amb el següent contingut:
+    - **Diapositiva 1:** Títol de la presentació i el teu nom.
+    - **Diapositiva 2:** Una llista amb 3 punts rellevants.
+    - **Diapositiva 3:** Una imatge amb un títol breu.
+3. Guarda el fitxer com `Presentacio_1.odp`.
 
 ---
+
+## Activitat 2: Treballar amb patrons de diapositives<a id="activitat-2"></a>
+
+### **Objectiu:** Aprendre a dissenyar patrons de diapositives.
+
+1. A la presentació `Presentacio_1.odp`, obre el mode **Patró de diapositives** des del menú "Visualització".
+2. Dissenya un patró amb:
+    - Fons de color clar.
+    - Un espai reservat per al títol a la part superior.
+    - Un espai reservat per al contingut a la part central.
+3. Aplica aquest patró a totes les diapositives.
+4. Guarda els canvis.
+
+---
+
+## Activitat 3: Inserció d’imatges i animacions bàsiques<a id="activitat-3"></a>
+
+### **Objectiu:** Inserir imatges i aplicar animacions.
+
+1. Obre `Presentacio_1.odp`.
+2. Afegeix una imatge a la **diapositiva 3** i centra-la.
+3. Aplica una **animació d’entrada** a la imatge.
+4. Aplica **animacions** als punts de la llista de la **diapositiva 2**.
+5. Guarda els canvis.
