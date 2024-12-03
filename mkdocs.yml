@@ -59,6 +59,13 @@ nav:
             - "2.2. Disseny i creació de diapositives": "AOF/UD3 - Presentacions/Part 2 - PowerPoint - Office 365/1_2_Disseny_Creacio_Diapositives.md"
           - "Part 3. Habilitats de presentació":
             - "3.1. Com fer una presentació en públic" : "AOF/UD3 - Presentacions/Part 3  - Habilitats de presentacio/3_1_Habilitats.md"
+        - Unitat Didàctica 4. Manipulació d'imatges:
+          - "1. Introducció": "AOF/UD4 - Imatges/0_Introduccio.md"
+          - "2. Canva": "AOF/UD4 - Imatges/1_Canva.md"
+          - "3. Cartelleria": "AOF/UD4 - Imatges/2_Cartelleria.md"
+          - "4. IA en Canva": "AOF/UD4 - Imatges/3_IA.md"
+          - "5. Targetes i Elements Promocionals": "AOF/UD4 - Imatges/4_Tarjetes_i_ElementsPromocionals.md"
+          - "6. Plànols": "AOF/UD4 - Imatges/5_Planols.md"
       - Sobre...: about.md
 # Carpeta amb el documents fot
 docs_dir: 'md'
