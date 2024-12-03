@@ -14,7 +14,7 @@ header-includes:
   - \pagestyle{fancy}
   - \fancyhf{}
   - \fancyhead[L]{\vspace{15pt} 1r CFGM SMX}
-  - \fancyhead[R]{\includegraphics[width=170pt,height=50pt]{../../../assets/fse.png}}
+  - \fancyhead[R]{\includegraphics[width=170pt,height=50pt]{../../../../assets/fse.png}}
   - \fancyfoot[C]{\thepage}
   - \renewcommand{\headrulewidth}{0pt}
   - \renewcommand{\footrulewidth}{0pt}

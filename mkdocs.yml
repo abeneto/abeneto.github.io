@@ -54,6 +54,11 @@ nav:
           - "Part 1. LibreOffice Impress": 
             - "1.1. L'entorn de Treball": "AOF/UD3 - Presentacions/Part 1 - Impress/1_1_Entorn.md" 
             - "1.2. Disseny i creació de diapositives": "AOF/UD3 - Presentacions/Part 1 - Impress/1_2_Disseny_Creacio_Diapositives.md"
+          - "Part 2. Power Point - Office 365": 
+            - "2.1. L'entorn de Treball": "AOF/UD3 - Presentacions/Part 2 - PowerPoint - Office 365/1_1_Entorn.md" 
+            - "2.2. Disseny i creació de diapositives": "AOF/UD3 - Presentacions/Part 2 - PowerPoint - Office 365/1_2_Disseny_Creacio_Diapositives.md"
+          - "Part 3. Habilitats de presentació":
+            - "3.1. Com fer una presentació en públic" : "AOF/UD3 - Presentacions/Part 3  - Habilitats de presentacio/3_1_Habilitats.md"
       - Sobre...: about.md
 # Carpeta amb el documents fot
 docs_dir: 'md'

@@ -1,6 +1,6 @@
 ---
 title: "Aplicacions Ofimàtiques"
-subtitle: "Pràctica Final"
+subtitle: "Pràctica Final PowerPoint"
 author: "Alberto Benetó"
 geometry: "left=2cm, right=2cm, top=1.5cm, bottom=3cm"
 header-includes:
@@ -14,7 +14,7 @@ header-includes:
   - \pagestyle{fancy}
   - \fancyhf{}
   - \fancyhead[L]{\vspace{15pt} 1r CFGM SMX}
-  - \fancyhead[R]{\includegraphics[width=170pt,height=50pt]{../../../assets/fse.png}}
+  - \fancyhead[R]{\includegraphics[width=170pt,height=50pt]{../../../../assets/fse.png}}
   - \fancyfoot[C]{\thepage}
   - \renewcommand{\headrulewidth}{0pt}
   - \renewcommand{\footrulewidth}{0pt}
@@ -26,7 +26,7 @@ output:
     latex_engine: xelatex
 ---
 
-# **Pràctica Final**
+# **Pràctica Final PowerPoint**
 
 ## **Objectiu**
 

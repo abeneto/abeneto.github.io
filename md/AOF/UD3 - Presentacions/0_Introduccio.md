@@ -1,6 +1,6 @@
 # Benvinguts a la Unitat 3 d'Aplicacions Ofimàtiques!
 
-En aquesta unitat, ens endinsarem en el món de les **presentacions multimèdia**, una habilitat essencial per comunicar idees de manera efectiva tant en l'àmbit acadèmic com professional. Ens centrarem principalment en l'ús de **LibreOffice Impress**, així com en altres eines com **Google Slides** i **Canva**, que ens permetran crear presentacions atractives i dinàmiques.
+En aquesta unitat, ens endinsarem en el món de les **presentacions multimèdia**, una habilitat essencial per comunicar idees de manera efectiva tant en l'àmbit acadèmic com professional. Ens centrarem principalment en l'ús de **LibreOffice Impress**, així com en altres eines com **Office 365** i **Canva**, que ens permetran crear presentacions atractives i dinàmiques.
 
 Al llarg de les sessions, aprendràs a dissenyar diapositives impactants, a incorporar elements multimèdia, a aplicar efectes d'animació, i a gestionar presentacions de forma professional. Aquest coneixement no només et serà útil per a projectes acadèmics, sinó també per a presentacions en el teu futur laboral.
 
